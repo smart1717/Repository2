@@ -1,0 +1,9 @@
+com\taotao\manage\pojo\ResultUI.class
+com\taotao\manage\pojo\ItemCat.class
+com\taotao\manage\pojo\ItemDesc.class
+com\taotao\manage\pojo\Item.class
+com\taotao\manage\pojo\ItemCatTree.class
+com\taotao\manage\pojo\ItemCatResult.class
+com\taotao\manage\pojo\PicResult.class
+com\taotao\manage\pojo\BasePojo.class
+com\taotao\manage\pojo\ItemCatData.class

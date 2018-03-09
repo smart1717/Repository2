@@ -1,0 +1,5 @@
+com\taotao\manage\service\impl\ItemService.class
+com\taotao\manage\service\BaseService.class
+com\taotao\manage\service\impl\PropertiyService.class
+com\taotao\manage\service\impl\ItemCatServiceImpl.class
+com\taotao\manage\service\impl\ItemDescService.class
